@@ -33,4 +33,4 @@ as a way to reference large responses or notices.
 
 ## How do i open an issue?
 
-You can open an issue by clicking [here](https://github.com/intellivoid/issues/issues/new) :-)
+You can open an issue by clicking [here](https://github.com/intellivoid/issues/issues/new/choose) :-)
